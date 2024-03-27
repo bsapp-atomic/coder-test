@@ -5,7 +5,9 @@ print('this is python')
 k = 10
 i = 5
 
-print(k + i)
+j = 1
+
+print(k + i + j)
 
 # wait for 5 seconds
 time.sleep(5)
